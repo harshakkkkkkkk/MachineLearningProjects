@@ -15,7 +15,7 @@ This repository contains three beginner to intermediate-level machine learning p
 **Name:** Harshak V P  
 **LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
 
-This project was developed as a learning exercise in ROS 2 and turtlesim.  
+This project was developed as a learning exercise in Machine Learning.  
 Feel free to use, modify, and extend it as needed!
 
 ---
